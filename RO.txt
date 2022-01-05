@@ -1,0 +1,18 @@
+Agadir: root  
+1: 467 km, 700.5dh + (276.00 Dhs) = 976.5 dhs
+2: 251 km, 376.5dh + (152.00 Dhs) = 528.5 dhs
+3: 509 km, 763.5dh + (107.00 Dhs + 43 Dhs) = 313.5 dhs
+4: 243 km, 364.5dh + (120.00 Dhs) = 484.5 dhs
+5: 244 km, 366dh + (90 Dhs) = 456 dhs
+6: 338 km, 507dh + (172 Dhs) = 679 dhs
+7: 281 km, 421.5dh + (39.00 Dhs) = 513.5 dhs
+8: 324 km, 486dh +(92.00 Dhs) = 578 dhs
+9:  291 km, 436.5 dhs
+10: 385 km, 577.5dh + (201.00 Dhs) = 778.5 dhs
+11: 257 km, 385.5 dhs
+
+
+
+(...) means this route has a tolls
+
+calc : 150 dhs / 100 km
